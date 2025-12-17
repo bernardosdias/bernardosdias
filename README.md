@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **bernardosdias/bernardosdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hey there! 👋  
+I'm Bernardo, an Electrical and Computer Engineer specialized in automation.
+
+I enjoy working on control systems, robotics, and intelligent systems, where theory meets real-world engineering.  
+My main interests revolve around control, UAVs, embedded systems, and machine learning applied to engineering problems.
+
+During my Master’s at FEUP, I developed my thesis in collaboration with 4DC Tech, gaining hands-on experience in an industrial environment while applying advanced control and engineering concepts.
+
+---
+
+### 🧠 What I work with
+
+- Control systems (linear & nonlinear, Lyapunov-based methods)
+- UAV modeling and control
+- Embedded and real-time systems
+- Robotics and autonomous systems
+- Machine learning for engineering applications
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** C / C++, Python, MATLAB  
+- **Engineering:** Control, Automation, Robotics, Embedded Systems  
+- **Tools:** Simulation, modeling, algorithm development, data analysis  
+
+---
+
+### 📌 Featured Projects
+
+You’ll find projects related to:
+- UAV control and stability analysis  
+- Computational and control-oriented engineering problems  
+- Machine learning and data-driven approaches  
+- Embedded and robotic systems  
+
+---
+
+### 📫 Get in touch
+
+- 💼 LinkedIn: *(add link here)*
+
