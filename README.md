@@ -18,9 +18,7 @@ Hey there! 👋
 I'm Bernardo, an Electrical and Computer Engineer specialized in automation.
 
 I enjoy working on control systems, robotics, and intelligent systems, where theory meets real-world engineering.  
-My main interests revolve around control, UAVs, embedded systems, and machine learning applied to engineering problems.
-
-During my Master’s at FEUP, I developed my thesis in collaboration with 4DC Tech, gaining hands-on experience in an industrial environment while applying advanced control and engineering concepts.
+My main interests revolve around automation, UAVs, embedded systems, machine learning applied to engineering problems and artificial Intelligence.
 
 ---
 
@@ -36,7 +34,7 @@ During my Master’s at FEUP, I developed my thesis in collaboration with 4DC Te
 
 ### 🛠 Tech Stack
 
-- **Languages:** C / C++, Python, MATLAB  
+- **Languages:** C / C++, Python, MATLAB, SQL  
 - **Engineering:** Control, Automation, Robotics, Embedded Systems  
 - **Tools:** Simulation, modeling, algorithm development, data analysis  
 
@@ -55,4 +53,5 @@ You’ll find projects related to:
 ### 📫 Get in touch
 
 - 💼 LinkedIn: www.linkedin.com/in/bernardo-dias-594949259
+- 📩 E-mail: bernardoroncondias@gmail.com
 
