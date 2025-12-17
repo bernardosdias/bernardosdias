@@ -54,5 +54,5 @@ You’ll find projects related to:
 
 ### 📫 Get in touch
 
-- 💼 LinkedIn: *(add link here)*
+- 💼 LinkedIn: www.linkedin.com/in/bernardo-dias-594949259
 
