@@ -22,16 +22,6 @@ My main interests revolve around automation, UAVs, embedded systems, machine lea
 
 ---
 
-### 🧠 What I work with
-
-- Control systems (linear & nonlinear, Lyapunov-based methods)
-- UAV modeling and control
-- Embedded and real-time systems
-- Robotics and autonomous systems
-- Machine learning for engineering applications
-
----
-
 ### 🛠 Tech Stack
 
 - **Languages:** C / C++, Python, MATLAB, SQL  
